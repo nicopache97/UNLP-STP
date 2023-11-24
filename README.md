@@ -7,23 +7,23 @@ El proyecto que redacte durante el 2023 se centra en la integración de la Intel
 
 ## Documentos Compartidos
 
-### 1. Informe Técnico
+### 1. [Informe Técnico](./Informe%20Tecnico.pdf)
 
 El informe técnico aborda la problemática del estado actual del sistema de salud pública, destacando la desconexión con los avances tecnológicos basados en IA y proporcionando una visión general de dichos avances.
 
-![Informe Técnico](url_imagen_informe_tecnico)
 
-### 2. Propuesta
+
+### 2. [Propuesta](./Propuesta.pdf)
 
 La propuesta presenta un sistema de capacitaciones para el personal médico. Estas capacitaciones incluyen talleres interactivos presenciales y online, con 4 niveles para segmentar y profundizar el conocimiento.
 
-![Propuesta](url_imagen_propuesta)
 
-### 3. Informe de Avance
+
+### 3. [Informe de Avance](./Informe%20de%20Avance.pdf)
 
 Este informe se crea suponiendo que la propuesta fue aceptada. Informa sobre los avances, las problemáticas encontradas y los trabajos pendientes a mitad del desarrollo de las capacitaciones, en espera de la siguiente etapa de financiación.
 
-![Informe de Avance](url_imagen_avance)
+
 
 ### 4. Mecanismo (En Desarrollo)
 
