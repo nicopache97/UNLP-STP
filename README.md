@@ -22,16 +22,16 @@ La propuesta presenta un sistema de capacitaciones para el personal médico. Est
 Este informe se crea suponiendo que la propuesta fue aceptada. Informa sobre los avances, las problemáticas encontradas y los trabajos pendientes a mitad del desarrollo de las capacitaciones, en espera de la siguiente etapa de financiación.
 
 
-### 4. [Mecanismo de Aprendizaje de una Red Neuronal (RN)](./Mecanismo%20de%20Aprendizaje%20de%20una%20Red%20Neuronal%20(RN).pdf)
+### 4. [Descripcion de Mecanismo](./Mecanismo%20de%20Aprendizaje%20de%20una%20Red%20Neuronal%20(RN).pdf)
 Este documento detalla el mecanismo de aprendizaje de una red neuronal (RN). Explica el proceso de retropropagación y el algoritmo de descenso del gradiente para optimizar los resultados de la red, describiendo el funcionamiento de cada neurona y su trabajo en conjunto como etapas.
 
 
-### 5. [Instrucciones para Dictado de los Talleres de IA en el campo médico](Informe%20de%20Instrucciones%20para%20Dictado%20de%20los%20Talleres%20de%20IA%20en%20el%20campo%20médico.pdf)
+### 5. [Instrucciones](Informe%20de%20Instrucciones%20para%20Dictado%20de%20los%20Talleres%20de%20IA%20en%20el%20campo%20médico.pdf)
 
 Este documento proporciona instrucciones detalladas para la realización de talleres de IA dirigidos a personal médico. Se especifican los materiales necesarios y los pasos a seguir para garantizar una experiencia de aprendizaje efectiva y de alta calidad.
 
 
-### 6. [Especificaciones de herramientas para dictar de los talleres de IA en el campo médico](Informe%20de%20Especificaciones%20de%20herramientas%20para%20dictar%20de%20los%20talleres.pdf)
+### 6. [Informe de Especificaciones](Informe%20de%20Especificaciones%20de%20herramientas%20para%20dictar%20de%20los%20talleres.pdf)
 
 Este documento detalla las condiciones necesarias para el equipamiento tecnico utilizado en los talleres de IA en el ámbito médico. Incluye los requisitos para las computadoras, el equipo de grabación y la infraestructura del anfiteatro, asegurando que cumplan con estándares de alta calidad para una presentación y grabación óptimas.
 
